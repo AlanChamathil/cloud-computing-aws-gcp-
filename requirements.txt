@@ -1,0 +1,6 @@
+pandas
+yfinance == 0.1.70
+pandas_datareader == 0.10.0
+Flask == 3.0.0
+gunicorn == 21.2.0
+boto3 == 1.29.0
